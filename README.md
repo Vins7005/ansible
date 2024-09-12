@@ -4,7 +4,7 @@ Configuration Management with Ansible for a Single-Tier Application
 Project Overview:
 This project automates the configuration and deployment of a Single-tier web application using Ansible. The project uses Apache2 as a web server,  and MySQL as the database. All tiers are automatically configured and deployed using Ansible playbooks.
 
-Technologies Used:
+Technologies Used: 
 Ansible
 apache2
 MySQL
